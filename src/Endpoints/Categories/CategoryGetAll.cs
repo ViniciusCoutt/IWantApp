@@ -16,7 +16,4 @@ public class CategoryGetAll
 
         return Results.Ok(response);
     }
-
-
-
 }
